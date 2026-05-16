@@ -481,7 +481,7 @@
         <div class="container">
             <!-- Categories Section -->
             <div class="section-header">
-                <h2>Curated Categories</h2>
+                <h2>Curated 090678 Categories</h2>
                 <p style="color: var(--text-secondary)">Shop by interest — handpicked for you</p>
             </div>
             <div class="category-grid" id="categoryGrid"></div>
